@@ -1,0 +1,12 @@
+.login_container{
+
+
+}
+
+.left-form{
+    -fx-background-color: linear-gradient(to bottom right, #7DB9B6, #F5E9CF);
+}
+
+.right-form{
+    -fx-background-color: linear-gradient(to top right, #F5E9CF, #7DB9B6);
+}

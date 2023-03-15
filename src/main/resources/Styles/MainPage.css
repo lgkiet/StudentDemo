@@ -1,0 +1,40 @@
+.LeftPanel{
+    -fx-background-color: linear-gradient(to bottom right, #E96479, #F5E9CF);
+}
+
+.nav_btn{
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-text-color: #4D455D;
+}
+.nav_btn:hover{
+    -fx-background-color: #86A3B8;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 6,0,0,0);
+}
+
+.signout_btn{
+    -fx-background-color: #86A3B8;
+    -fx-border-radius: 25%;
+    -fx-cursor: hand;
+}
+.signout_btn:hover{
+    -fx-background-color: #FF0303;
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 6,0,0,0);
+}
+
+.white-bg{
+    -fx-background-color: #fff;
+    -fx-background-radius: 10px;
+}
+
+.card{
+    -fx-background-color: linear-gradient(to bottom right, #F5E9CF, #7DB9B6);
+    -fx-background-radius: 10px;
+}
+
+.text-field{
+    -fx-border-color: linear-gradient(to bottom right, #F5E9CF, #7DB9B6);
+}
